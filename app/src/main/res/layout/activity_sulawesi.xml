@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_hlm"
+    tools:context=".sulawesi">
+
+    <ImageButton
+        android:id="@+id/imgbtn_gorontalo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_gorontalo"
+        android:contentDescription="@string/gorontalo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.104" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_sulut"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_sulut"
+        android:contentDescription="@string/sulut"
+        android:onClick="sulut"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.104"
+        tools:ignore="UsingOnClickInXml" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_sulbar"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_sulbar"
+        android:contentDescription="@string/sulbar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.448" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_sulteng"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_sulteng"
+        android:contentDescription="@string/sulteng"
+        android:onClick="sulteng"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.448"
+        tools:ignore="UsingOnClickInXml" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_sultengga"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_sultengga"
+        android:contentDescription="@string/sultengga"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.789" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_sulsel"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/logo_sulsel"
+        android:contentDescription="@string/sulsel"
+        android:onClick="sulsel"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.8"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.789"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/txt_gorontalo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="278dp"
+        android:layout_marginBottom="95dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/gorontalo"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imgbtn_sulbar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_gorontalo" />
+
+    <TextView
+        android:id="@+id/txt_sulut1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="123dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="84dp"
+        android:layout_marginBottom="95dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/sulut"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imgbtn_sulteng"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_gorontalo1"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_sulut" />
+
+    <TextView
+        android:id="@+id/txt_sulbar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="276dp"
+        android:layout_marginBottom="93dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/sulbar"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imgbtn_sultengga"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_sulbar" />
+
+    <TextView
+        android:id="@+id/txt_sulteng1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="103dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="81dp"
+        android:layout_marginBottom="95dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/sulteng"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imgbtn_sulsel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_sulbar1"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_sulteng" />
+
+    <TextView
+        android:id="@+id/txt_sultengga1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="271dp"
+        android:layout_marginBottom="111dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/sultengga"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_sultengga"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txt_sulsel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="81dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="83dp"
+        android:layout_marginBottom="105dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/sulsel"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toEndOf="@+id/txt_sultengga1"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_sulsel"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

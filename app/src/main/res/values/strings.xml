@@ -1,0 +1,291 @@
+<resources>
+    <string name="app_name">Aplikasi Seni Budaya</string>
+    <string name="judul">APLIKASI SENI DAN BUDAYA</string>
+    <string name="start">START</string>
+    <string name="back">BACK</string>
+    <string name="close">CLOSE</string>
+    <string name="home">HOME</string>
+    <string name="pulau1">PULAU SUMATERA</string>
+    <string name="pulau2">PULAU JAWA</string>
+    <string name="pulau3">PULAU NUSA TENGGARA DAN BALI</string>
+    <string name="pulau4">PULAU MALUKU DAN PAPUA</string>
+    <string name="pulau5">PULAU KALIMANTAN</string>
+    <string name="pulau6">PULAU SULAWESI</string>
+    <string name="aceh">ACEH</string>
+    <string name="sumut">SUMATERA UTARA</string>
+    <string name="sumbar">SUMATERA BARAT</string>
+    <string name="dki">DKI JAKARTA</string>
+    <string name="jabar">JAWA BARAT</string>
+    <string name="jatim">JAWA TIMUR</string>
+    <string name="ntb">NUSA TENGGARA BARAT</string>
+    <string name="ntt">NUSA TENGGARA TIMUR</string>
+    <string name="bali">BALI</string>
+    <string name="maluku">MALUKU</string>
+    <string name="papua">PAPUA</string>
+    <string name="pabar">PAPUA BARAT</string>
+    <string name="kalbar">KALIMANTAN BARAT</string>
+    <string name="kalteng">KALIMANTAN TENGAH</string>
+    <string name="kaltim">KALIMANTAN TIMUR</string>
+    <string name="sulut">SULAWESI UTARA</string>
+    <string name="sulteng">SULAWESI TENGAH</string>
+    <string name="sulsel">SULAWESI SELATAN</string>
+    <string name="tartrad">TARI TRADISIONAL</string>
+    <string name="lagu">LAGU DAERAH</string>
+    <string name="btnvid">Tonton Videonya</string>
+    <string name="btnlagu">Dengarkan Lagunya</string>
+    <string name="infovid">Baca dan Dengarkan Informasinya</string>
+    <string name="infolagu">Baca dan Dengarkan Informasinya</string>
+    <string name="saman">TARI SAMAN</string>
+    <string name="saman2">Tari Saman adalah sebuah tarian Suku Gayo yang biasa ditampilkan untuk merayakan peristiwa-peristiwa penting dalam adat.
+Syair dalam tarian saman mempergunakan Bahasa Gayo. Selain itu biasanya tarian ini juga ditampilkan untuk merayakan kelahiran Nabi Muhammad SAW.
+ Tari saman biasanya ditampilkan tidak menggunakan iringan alat musik, akan tetapi menggunakan suara dari para penari dan tepuk tangan mereka yang
+ biasanya diikuti dengan memukul dada dan pangkal paha mereka sebagai sinkronisasi dan menghempaskan badan ke berbagai arah. Tarian ini dipandu
+ oleh seorang pemimpin yang lazimnya disebut syekh. Tarian ini mencerminkan pendidikan, keagamaan, sopan santun, kepahlawanan, kekompakkan dan kebersamaan.</string>
+    <string name="tortor">TARI TOR TOR</string>
+    <string name="tortor2">Tari Tor Tor adalah tarian seremonial yang disajikan dengan musik gondang. Secara fisik, Tor Tor merupakan tarian, namun makna
+ dari gerakan-gerakannya menunjukkan Tor Tor adalah sebuah media komunikasi, di mana melalui gerakan yang disajikan terjadi interaksi antara orang yang
+ mengikuti upacara. Dalam pelaksanaan tarian ini, salah seorang dari hasuhutan (yang mempunyai hajat) akan meminta permintaan kepada penabuh gondang
+ dengan kata-kata yang sopan dan santun. Setiap selesai satu permintaan selalu diselingi dengan pukulan gondang dengan ritme tertentu dalam beberapa saat.
+ Setelah permintaan dilaksanakan dengan baik maka barisan keluarga suhut yang telah siap menari mengatur susunan tempat berdirinya untuk memulai menari.</string>
+    <string name="piring">TARI PIRING</string>
+    <string name="piring2">Tari Piring adalah tarian tradisional Minangkabau yang menampilkan atraksi menggunakan piring. Para penari mengayunkan piring di
+ tangan mengikuti gerakan-gerakan cepat yang teratur, tanpa satu pun piring yang terlepas dari tangan. Gerakannya diambil dari langkah-langkah dalam silat Minangkabau
+ atau silek. Tarian ini diiringi oleh kombinasi alat musik talempong dan saluang. Tempo alunan musik awalnya lembut dan teratur, kemudian lama-kelamaan berubah
+ menjadi lebih cepat.</string>
+    <string name="lenggangnyai">TARI LENGGANG NYAI</string>
+    <string name="lenggangnyai2">Tari Lenggang Nyai adalah tarian khas Jakarta yang diambil dari sebuah cerita rakyat. Banyak pesan dan makna yang ingin disampaikan
+ melalui tarian ini, terutama pesan mengenai kebebasan wanita. Tari Lenggang Nyai dikatakan bersumber dari cerita rakyat Betawi, yaitu Nyai Dasimah yang memperjuangkan
+ kebebasannya. Dalam pertunjukannya, penari menari dengan gerakan yang lincah yang menggambarkan keceriaan dan keluwesan gadis Betawi. Kelincahan tersebut terlihat dari
+ gerak tubuh, kaki, dan tangan para penari yang bergerak cepat tetapi tetap harmonis dengan musik.</string>
+    <string name="remo">TARI REMO</string>
+    <string name="remo2">Tari Remo adalah tarian untuk penyambutan tamu yang ditampilkan oleh satu orang atau lebih. Menurut sejarahnya, tarian ini merupakan tari yang
+ khusus dibawakan oleh penari laki-laki. Pertunjukan Tari Remo umumnya menampilkan kisah pangeran yang berjuang dalam sebuah medan pertempuran. Tetapi tarian ini berkembang
+ menjadi ditarikan oleh perempuan, sehingga memunculkan gaya tarian yang lain yaitu Remo Putri. Tarian ini dicirikan dengan gerakan kaki yang rancak dan dinamis dan gerakan
+ selendang atau sampur, gerakan anggukan dan gelengan kepala, ekspresi wajah, dan kuda-kuda membuat tarian ini semakin atraktif.</string>
+    <string name="merak">TARI MERAK</string>
+    <string name="merak2">Tari Merak adalah tarian indah yang mengekspresikan keanggunan gerak dan keindahan tata busana yang diambil dari kehidupan burung merak yang
+ terlahir di Tanah Pasundan. Tari ini lebih menggambarkan tingkah laku burung merak jantan yang sering menunjukkan keindahan warna-warni bulu ekornya untuk menarik
+ perhatian. Dalam pertunjukannya, tari ini dimainkan oleh tiga penari atau lebih secara berkelompok dan menunjukkan tata busana yang dikenakan yang memiliki motif
+ seperti bulu burung merak.</string>
+    <string name="pendet">TARI PENDET</string>
+    <string name="pendet2">Tari Pendet adalah tarian Bali yang pada awalnya tari ini tercipta sebagai tari pemujaan. Karena perkembangan, tarian ini terjadi perubahan
+ dalam gerakan dan dipentaskan sebagai Tarian Ucapan Selamat Datang. Tari Pendet dapat ditarikan oleh laki-laki dan perempuan. Tari ini memiliki banyak jenis gerakan dan
+ penari membawa mangkuk perak yang penuh bunga. Pada akhir tarian para penari menaburkan bunga ke arah penonton sebagai ucapan selamat datang.</string>
+    <string name="gandrung">TARI GANDRUNG LOMBOK</string>
+    <string name="gandrung2">Tari Gandrung Lombok adalah tarian dari Lombok yang dilakukan secara berpasangan antara laki-laki dan perempuan. Tarian ini awalnya
+ digunakan untuk menghibur para prajurit setelah pulang dari medan perang. Tarian ini kemudian dikembangkan dan ditata ulang sebagai sebuah kesenian tari pertunjukan oleh
+ para seniman di sana, dari segi gerak, busana, maupun jumlah penari. Dalam pertunjukannya, Tari Gandrung Lombok dibagi menjadi 3 babak.</string>
+    <string name="jai">TARI JAI</string>
+    <string name="jai2">Tari Ja’i adalah tarian tradisional masyarakat Ngada di Flores, Nusa Tenggara Timur (NTT). Tarian ini merupakan tarian yang dilakukan oleh masyarakat
+ di sana sebagai ungkapan rasa syukur dan kegembiraan. Selain itu, tari ini sering ditampilkan dalam berbagai acara seperti perayaan, upacara adat dan menyambut tamu kehormatan.
+ Berbagai variasi dan perubahan sering dilakukan dalam pertunjukan tari ini namun tidak meninggalkan bentuk aslinya. Tari Ja’i memiliki nilai-nilai penting untuk kehidupan,
+ baik dalam bersosial dan bermasyarakat.</string>
+    <string name="pocopoco">TARI POCO-POCO</string>
+    <string name="pocopoco2">Tari Poco-Poco adalah tarian yang berasal dari Maluku Utara. Awalnya, lagu tarian poco-poco hanya dikenal di lingkungan TNI dan Polri sebagai
+ gerakan untuk senam pagi. Tari poco-poco lalu mulai disukai masyarakat pada saat stasiun televisi TVRI Jakarta mulai menyiarkan program dengan nama Dansa Yo Dansa. Lagu
+ Poco-Poco diciptakan oleh Arie Sapulette. Gerakan pada tari ini seperti tentara yang sedang senam pagi, dasar gerakan poco-poco, yaitu dua kali gerak ke kanan, dua kali
+ gerak ke kiri, mundur, dan memutar. Lama kelamaan, gerakan poco-poco terus berkembang dan bervariasi.</string>
+    <string name="sajojo">TARI SAJOJO</string>
+    <string name="sajojo2">Tari Sajojo adalah tarian yang menggambarkan kebersamaan yang dirasakan setiap orang. Suasana keceriaan dan semangat kebersamaan ini bisa ditarikan
+ oleh laki-laki maupun perempuan. Tari Sajojo juga cara bagi masyarakat Papua untuk menyampaikan pesan selamat datang kepada para tamu kehormatan. Istilah Sajojo diambil
+ dari lagu pengiringnya yang berjudul “Sajojo”. Lagu tersebut menceritakan tentang seorang gadis yang diidolakan dan dicintai di kampungnya. Namun yang menjadi ciri khas dari
+ tari ini adalah gerakannya yang bersemangat menggambarkan kebahagiaan.</string>
+    <string name="yospan">TARI YOSPAN</string>
+    <string name="yospan2">Tari Yospan adalah tarian dari Papua Barat yang merupakan penggabungan dari dua jenis tari yaitu Yosim dan Pancar. Tari ini tarian pergaulan yang sering
+ dibawakan laki-laki dan perempuan muda sebagai bentuk persahabatan. Tari ini terdiri dari dua regu pemain yaitu regu musisi dan penari. Penari yospan lebih dari satu orang
+ dengan gerakan dasar yang penuh semangat, dinamik, dan menarik. Selain itu, tari ini sudah sering ditampilkan pada saat acara-acara adat, kegiatan penyambutan, dan festival
+ seni budaya.</string>
+    <string name="enggang">TARI ENGGANG</string>
+    <string name="enggang2">Tari Enggang adalah tarian yang berasal dari suku Dayak Kenyah yang dibawakan untuk memuliakan nenek moyang. Enggang sendiri berarti Burung Enggang,
+ masyarakat suku Dayak Kenyah sangat memuliakan burung ini. Makna lain dari tari ini adalah dulu masyarakat suku Dayak Kenyah sering berpindah tempat tinggal (nomaden) sama seperti
+ Burung Enggang. Masyarakat berpindah secara berkelompok untuk menghindari peperangan. Waktu itu, masih banyak terjadi perang antarsuku. Tari ini dibawakan oleh perempuan muda
+ dan memiliki tiga gerakan dasar.</string>
+    <string name="giring_giring">TARI GIRING-GIRING</string>
+    <string name="giring_giring2">Tari Giring-Giring adalah tarian yang berasal dari suku Dayak Ma’anyan yang kemudian berkembang di Kalimantan Tengah, terutama di Kabupaten
+ Barito. Nama Giring-Giring diambil dari nama tongkat yang dimainkan oleh para penarinya yaitu tongkat Giring-Giring. Dalam tari Giring Giring ada 2 jenis tongkat yaitu tongkat panjang
+ dan tongkat pendek. Tongkat panjang dipegang di tangan kiri yang digunakan untuk menghentakkan ke lantai. Sedangkan tongkat pendek dipegang di tangan kanan dan dimainkan dengan cara
+ diayunkan. Tari ini mengekspresikan kegembiraan dan rasa senang yang dirasakan oleh masyarakat.</string>
+    <string name="ruai">TARI RUAI</string>
+    <string name="ruai2">Tari Ruai adalah tarian yang indah dan gemulai yang berasal dari Kalimantan Barat. Tari ini juga menggambarkan seekor burung yaitu Burung Ruai.
+ Tari ini ditarikan oleh laki-laki maupun perempuan dengan mengenakan pakaian khas berwarna merah dan aksesoris sebagai pelengkap yang terbuat dari bulu ayam, ataupun
+ juga dari bulu Buruang Ruai. Saat ini, tari ini dipentaskan untuk menyambut tamu. Dalam tari ini biasanya terdapat beras kuning yang digunakan untuk menyambut tamu dengan
+ cara menyebarkannya.</string>
+    <string name="maengket">TARI MAENGKET</string>
+    <string name="maengket2">Tari Maengket adalah tarian dari masyarakat Minahasa di Sulawesi Utara yang ditujukan sebagai ungkapan rasa syukur sehabis panen padi. Tari ini
+ dipentaskan kelompok berpasangan yang umumnya dibawakan oleh 12 pasang penari laki-laki dan perempuan. Mereka menari sambil menyanyi dipimpin oleh kapel, yang diperankan oleh
+ seorang wanita. Istilah Maengket berasal dari kata “engket” yang berarti bergerak bersama, juga bisa diartikan mengangkat tumit naik-turun sesuai lagu. Saat ini, tari ini
+ juga dipentaskan untuk berbagai kegiatan, sebagai pendidikan, sosial, atau hanya sekedar hiburan.</string>
+    <string name="kipas_pakarena">TARI KIPAS PAKARENA</string>
+    <string name="kipas_pakarena2">Tari Kipas Pakarena adalah tarian yang dipentaskan oleh perempuan maupun laki-laki yang rangkaian gerakannya mencerminkan karakter halus dan lembut
+ wanita Sulawesi Selatan dan kaum lelakinya yang keras dan tegas. Gerakan itu terwakili oleh hentakan musik yang mengiringi tarian ini. Tari ini memiliki ciri utama yaitu kipas dan selendang,
+ gerakan tangan lambat, langkah tenang, dan musik yang bergemuruh. Tari ini memiliki sejarah yang dikaitkan dengan penghuni khayangan dan penghuni bumi. </string>
+    <string name="mokambu">TARI MOKAMBU</string>
+    <string name="mokambu2">Tari Mokambu adalah tarian yang berasal dari kota Palu yang dilakukan pada saat penjemputan tamu atau menyambut tamu. Tari ini memiliki tujuan yang sama dengan
+ Tari Motaro. Tari ini umumnya dibawakan oleh perempuan. Pakaian yang digunakan dalam tari ini dinamakan baju Pokko, dilengkapi dengan selendang di bagian kepala dan sarung Donggala di bagian
+ bawahnya. Pada akhir gerakan tari ini, penari melakukan gerakan menyiram beras kuning. Saat ini, tari ini juga dipentaskan untuk kegiatan seni dan budaya. </string>
+    <string name="bungong">BUNGONG JEUMPA</string>
+    <string name="bungong2">Bungong Jeumpa adalah salah satu lagu daerah yang berasal dari Aceh. Dalam bahasa Aceh, Bungong Jeumpa berarti bunga cempaka. Lagu Bungong Jeumpa ini
+ sangat terkenal terutama di Aceh karena lagu ini memiliki arti penting dalam budaya suku Aceh. Pada lirik lagu ini menceritakan tentang bunga cempaka berwarna putih kuning bercampur
+ merah yang indah dan harum, yang terkenal di Aceh. Lagu ini menggambarkan tentang semangat dan keindahan Tanah Aceh yang digambarkan dengan bunga khas di Kesultanan Aceh yaitu
+ Bungong Jeumpa. </string>
+    <string name="sinanggar">SINANGGAR TULLO</string>
+    <string name="sinanggar2">Sinanggar Tullo adalah salah satu lagu daerah yang berasal dari Sumatera Utara. Lagu Sinanggar Tullo ini sangat terkenal terutama di Sumatera Utara
+ karena sering dipakai sebagai iringan musik untuk menari. Pada lirik lagu ini menjelaskan seorang laki-laki yang bingung mencari ranting-ranting untuk dijadikan kayu bakar. Lirik
+ lagu ini menggambarkan tentang keluh kesah seorang laki-laki yang harus menuruti permintaan ibunya yang menginginkan anaknya untuk mencari pasangan yang memiliki marga sama dengan
+ sang ibu. </string>
+    <string name="kampuang">KAMPUANG NAN JAUH DI MATO</string>
+    <string name="kampuang2">Kampuang Nan Jauh di Mato adalah salah satu lagu daerah yang berasal dari Sumatera Barat. Lagu Kampuang Nan Jauh di Mato ini sangat terkenal terutama di
+ Sumatera Barat karena pada liriknya menceritakan tentang seorang perantau yang teringat akan kampung halamannya. Selain itu, liriknya juga menceritakan tentang keadaan kampung tersebut
+ seperti keluarga yang ada di sana, penduduknya yang baik dan ramah, dan terdapat gunung di sekelilingnya. Karena teringat akan kampung halamannya, seperti merasa dipanggil untuk pulang. </string>
+    <string name="kicir">KICIR-KICIR</string>
+    <string name="kicir2">Kicir-Kicir adalah salah satu lagu daerah yang berasal dari DKI Jakarta. Lagu Kicir-Kicir ini sangat terkenal terutama di Jakarta karena lagu ini muncul
+ dari tradisi pantun nusantara, terutama pengaruh dari pantun melayu dan syair. Pada lirik lagu ini memiliki rima dan suku kata yang sama seperti pantun dan syair dan arti liriknya
+ yang ingin menghibur pendengar. Lagu ini memberi nasehat agar manusia selalu bersemangat dalam menjalani kehidupan dan rajin berusaha dan bekerja demi kehidupan yang lebih baik serta
+ berguna bagi sesama.</string>
+    <string name="tokecang">TOKECANG</string>
+    <string name="tokecang2">Tokecang adalah salah satu lagu daerah yang berasal dari Jawa Barat. Dalam bahasa Sunda, Tokecang adalah singkatan dari tokek makan kacang. Lagu Tokecang ini
+ sangat terkenal terutama di Jawa Barat karena memiliki nada dan irama yang menyenangkan untuk didengar. Pada lirik lagu ini menjelaskan tentang tokek yang memakan banyak kacang. Lirik
+ lagu ini menggambarkan tentang sikap rakus manusia. Sebagai manusia, kita tidak boleh bersikap rakus, mementingkan diri sendiri, dan saling berbagi kepada sesama karena manusia adalah makhluk sosial.</string>
+    <string name="rek_ayo">REK AYO REK</string>
+    <string name="rek_ayo2">Rek Ayo Rek adalah salah satu lagu daerah yang berasal dari Jawa Timur. Lagu Rek Ayo Rek ini sangat terkenal terutama di Jawa Timur karena memiliki nada dan irama
+ yang menyenangkan untuk didengar. Pada lirik lagu ini terdapat berupa ajakan kepada teman-teman untuk jalan-jalan bersama. Walaupun tidak memiliki uang, namun dapat bersenang-senang bersama.
+ Lirik lagu ini menggambarkan sebuah pertemanan antar sesama manusia. Pertemanan yang erat tidak harus berdasarkan harta, rasa kebersamaan adalah hal yang penting dalam sebuah pertemanan.</string>
+    <string name="mejangeran">MEJANGERAN</string>
+    <string name="mejangeran2">Mejangeran adalah salah satu lagu daerah yang berasal dari Bali. Lagu Mejarengan ini sangat terkenal terutama di Bali karena dipakai sebagai iringan musik untuk
+ menari yaitu Tari Janger. Pada lirik lagu ini menjelaskan seorang wanita yang sangat cantik dan menawan, memiliki kulit yang indah, sedang memetik bunga. Lirik lagu ini juga diartikan sebagai
+ ajakan untuk menari dan untuk bersantai untuk melepas kejenuhan. Karena lagu ini adalah iringan untuk tari, lagu ini diartikan rasa kesedihan dan janggal dapat hilang dengan menari.</string>
+    <string name="kadalnong">KADAL NONGAK</string>
+    <string name="kadalnong2">Kadal Nongak adalah salah satu lagu daerah yang berasal dari Nusa Tenggara Barat (NTB). Lagu Kadal Nongak ini sangat terkenal terutama di NTB karena memiliki
+ kisah baik di baliknya. Pada lirik lagu ini menjelaskan kadal bertahta pohon duri yang menghadap ke atas yang tidak mendengar ketika diberi nasihat. Lirik lagu ini menggambarkan seorang
+ anak gadis yang berasal dari keluarga kerajaan yang tidak mendengar kata-kata kakaknya sehingga mendapat balasan atas kesalahan yang diperbuatnya sehingga ibunya mencoba menasehati dengan
+ cara menyairkannya.</string>
+    <string name="gemufa">GEMU FA MI RE</string>
+    <string name="gemufa2">Gemu Fa Mi Re adalah salah satu lagu daerah yang berasal dari Nusa Tenggara Timur (NTT). Lagu Gemu Fa Mi Re ini sangat terkenal terutama di NTT karena memiliki syair
+ serta irama musik yang riang. Pada lirik lagu ini menjelaskan tentang kota Meumere adalah kota yang penuh dengan nyanyian. Gemu berarti memasukkan ke dalam mulut dan Fa Mi Re adalah notasi
+ dalam sebuah lagu yang diartikan cara belajar notasi. Lagu ini diciptakan dengan irama yang menyenangkan dengan tujuan untuk bergembira, menari bersama-sama mengikuti irama lagu tersebut. </string>
+    <string name="apuse">APUSE</string>
+    <string name="apuse2">Apuse adalah salah satu lagu daerah yang berasal dari Papua. Lagu Apuse ini sangat terkenal terutama di Papua karena sering digunakan sebagai lagu kesenian anak Sekolah Dasar.
+ Pada lirik lagu ini menjelaskan tentang seorang anak atau cucu yang hendak pergi merantau ke negeri seberang, Teluk Doreri dan ia berpamitan kepada nenek atau kakeknya. Nenek atau kakeknya memegang
+ sapu tangan dan melambaikan tangan ketika melepas cucunya yang akan pergi. Teluk Doreri memiliki peran penting di tanah Papua dan saat ini menjadi pelabuhan baik untuk kapal Domestik Nasional,
+ maupun antar pulau di Papua.</string>
+    <string name="mambo_sim">E MAMBO SIMBO</string>
+    <string name="mambo_sim2">E Mambo Simbo adalah salah satu lagu daerah yang berasal dari Papua Barat. Lagu E Mambo Simbo ini sangat terkenal terutama di Papua Barat karena memiliki nada dan irama
+ yang menggembirakan. Pada lirik lagu ini menjelaskan suka cita pertemuan seorang ayah dengan anaknya. Pada lirik lagu ini berkisah tentang seorang ayah yang kehilangan anaknya bernama Mambo. Sang ayah
+ keluar masuk kampung mencari sang anak hingga menemukannya di tengah hutan. Pertemuan ini kemudian dirayakan penuh suka cita dengan menari dan bernyanyi karena Mambo telah kembali.</string>
+    <string name="sayange">RASA SAYANGE</string>
+    <string name="sayange2">Rasa Sayange adalah salah satu lagu daerah yang berasal dari Maluku. Lagu Rasa Sayange ini sangat terkenal terutama di Maluku karena sering dinyanyikan oleh anak-anak dan
+ memiliki rima dan suku kata yang sama seperti pantun dan memiliki pesan seperti pantun. Pada lirik lagu ini memiliki pantun seperti "Mana kancil akan dikejar, kedalam pasar cobalah cari. Masih kecil rajin
+ belajar, sudah besar senanglah diri". Lirik lagu ini menyatakan rasa peduli, kasih, dan sayang pada orang dan lingkungan sekitar serta sosial diantara masyarakat secara turun-temurun.</string>
+    <string name="bubolok">BUAH BOLOK</string>
+    <string name="bubolok2">Buah Bolok adalah salah satu lagu daerah yang berasal dari Kalimantan Timur. Lagu Buah Bolok ini sangat terkenal terutama di Kalimantan Timur karena buah bolok adalah buah
+ yang khas di Kalimantan Timur khususnya Kutai. Pada lirik lagu ini menjelaskan bahwa buah bolok adalah buah yang disukai kancil, kijang, dan rusa. Namun liriknya juga menjelaskan tentang Kalimantan
+ Timur itu sendiri untuk melestarikan rumah-rumah adat dan hal-hal lainnya. Secara umum, lagu ini bertujuan mengajak dan mengenalkan kepada para wisatawan dan pendatang untuk datang dan mengetahui
+ tentang kebudayaan Kalimantan Timur.</string>
+    <string name="manasai">MANASAI</string>
+    <string name="manasai2">Manasai adalah salah satu lagu daerah yang berasal dari Kalimantan Tengah. Lagu Manasai ini sangat terkenal terutama di Kalimantan Tengah karena dipakai sebagai iringan
+ musik untuk menari yaitu Tari Manasai. Pada lirik lagu ini menjelaskan pukulan gendang diiringi kangkanung sambil bergerak ke kanan dan kiri, maju dan mundur. Kemudian, memakai kain dan selendang yang
+ diikat di pinggang mengelilingi sangkai lunuk, yaitu semacam "tugu" terbuat dari ikatan ranting pohon beringin. Lagu yang berirama kegembiraan ini mengajak masyarakat untuk menari Tari Manasai. </string>
+    <string name="cikcik">CIK CIK PERIUK</string>
+    <string name="cikcik2">Cik Cik Periuk adalah salah satu lagu daerah yang berasal dari Kalimantan Barat. Lagu Cik Cik Periuk ini sangat terkenal terutama di Kalimantan Barat karena lagu ini
+ merupakan lagu daerah yang mewakili Kalimantan Barat. Pada lirik lagu ini menjelaskan cik-cik yaitu bunyi dari dalam periuk. Periuk adalah peralatan dapur yang terbuat dari logam atau tanah liat
+ yang digunakan untuk membuat nasi. Sebenarnya. lagu ini menggambaran kehidupan masa lampau masyarakat Sambas. Lagu ini menceritakan tentang kedatangan masyarakat luar ke Kalimantan Barat yang
+ dianggap membawa budaya yang bertentangan dengan nilai-nilai setempat. </string>
+    <string name="sipatokaan">SIPATOKAAN</string>
+    <string name="sipatokaan2">Sipatokaan adalah salah satu lagu daerah yang berasal dari Sulawesi Utara. Lagu Sipatokaan ini sangat terkenal terutama di Sulawesi Utara karena memiliki makna atau
+ cerita bagi provinsi itu sendiri. Pada lirik lagu ini menjelaskan seorang anak yang hendak pergi merantau dan ibunya berpesan "Jika kau pergi ke tanah yang jauh, maka pergilah dengan hati-hati, Sayang".
+ Secara umum, lagu ini menggambarkan rasa kekhawatiran dan rasa sayang seorang ibu kepada anaknya yang pergi merantau dan beliau mengingatkan anaknya untuk selalu berhati-hati karena banyak hal bisa terjadi kepada sang anak.</string>
+    <string name="pakarena">PAKARENA</string>
+    <string name="pakarena2">Pakarena adalah salah satu lagu daerah yang berasal dari Sulawesi Selatan. Lagu Pakarena ini sangat terkenal terutama di Sulawesi Selatan karena dipakai sebagai lagu kesenian
+ untuk anak-anak. Pada lirik lagu ini menjelaskan orang Makassar memiliki adat yang khas sejak dulu, pakarena yang anggun dalam setiap penampilan. Setiap ada pesta atau acara, akan lebih indah dan bagus jika
+ ada Pakarena. Secara umum, lagu ini menggambarkan tentang keindahan acara yang diiringi dengan musik khas Makassar. Penampilan yang anggun serta dilakukan bersama yang damai di dalam acara tersebut. </string>
+    <string name="palu">PALU NGATAKU</string>
+    <string name="palu2">Palu Ngataku adalah salah satu lagu daerah yang berasal dari Sulawesi Tengah. Lagu Palu Ngataku ini sangat terkenal terutama di Sulawesi Tengah karena memiliki cerita mengenai
+ provinsi ini khususnya kota Palu. Pada lirik lagu ini menjelaskan kota Palu adalah tempat tinggal ia dan keluarganya yang sejak dulu sudah terkenal namanya dan banyak penghasilannya. Secara umum,
+ lagu ini menggambarkan tentang kerinduan mendalam seseorang yang sedang merantau di negeri orang terhadap kampung halamannya di kota Palu. Ia merindukan keindahan Palu, tempat tinggal ia dan keluarganya. </string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+    <string name="riau">RIAU</string>
+    <string name="kepriau">KEPULAUAN RIAU</string>
+    <string name="lampung">LAMPUNG</string>
+    <string name="kepbangka">KEPULAUAN BANGKA BELITUNG</string>
+    <string name="jambi">JAMBI</string>
+    <string name="sumsel">SUMATERA SELATAN</string>
+    <string name="bengkulu">BENGKULU</string>
+    <string name="banten">BANTEN</string>
+    <string name="jateng">JAWA TENGAH</string>
+    <string name="yogya">YOGYAKARTA</string>
+    <string name="malut">MALUKU UTARA</string>
+    <string name="kalut">KALIMANTAN UTARA</string>
+    <string name="kalsel">KALIMANTAN SELATAN</string>
+    <string name="gorontalo">GORONTALO</string>
+    <string name="sultengga">SULAWESI TENGGARA</string>
+    <string name="sulbar">SULAWESI BARAT</string>
+    <string name="pakaian">PAKAIAN ADAT</string>
+    <string name="rumah">RUMAH ADAT</string>
+    <string name="senjata">SENJATA KHAS</string>
+    <string name="baksa">TARI BAKSA KEMBANG</string>
+    <string name="bedhaya">TARI BEDHAYA KETAWANG</string>
+    <string name="campak">TARI CAMPAK</string>
+    <string name="gambyong">TARI GAMBYONG</string>
+    <string name="gandai">TARI GANDAI</string>
+    <string name="gending">TARI GENDING SRIWIJAYA</string>
+    <string name="lariangi">TARI LARIANGI</string>
+    <string name="ngabalukbuk">TARI NGABALUKBUK</string>
+    <string name="potangnga">TARI POTANGNGA</string>
+    <string name="lalatip">TARI LALATIP</string>
+    <string name="saronde">TARI SARONDE</string>
+    <string name="sigeh">TARI SIGEH PENGUNTEN</string>
+    <string name="soya">TARI SOYA-SOYA</string>
+    <string name="tandak">TARI TANDAK</string>
+    <string name="zapin">TARI ZAPIN</string>
+    <string name="inai">TARI INAI</string>
+    <string name="zapin2">Tari Zapin adalah tarian yang berasal dari Riau. Tari Zapin adalah tarian khas Melayu yang diiringi lagu-lagu yang berasal dari negeri Yaman. Tari Zapin bermula dari sebuah tarian khusus
+        bagian kalangan istana di Kasultanan Yaman Timur Tengah di masa silam. Tari Zapin kemudian berkembang dan menjadi tarian yang digunakan sebagai dakwah Islamiyah melalui syair lagu-lagu Zapin yang dinyanyikan.
+        Tarian ini ditarikan secara berkelompok dengan musik pengiringnya yang terdiri dari dua alat musik utama, yakni gambus dan gendang kecil yang disebut marwas.</string>
+    <string name="tandak2">Tari Tandak atau disebut juga Tari Danding adalah tarian yang berasal dari Kepulauan Riau. Tarian ini memiliki makna sebagai tarian pergaulan dan ditarikan oleh kelompok pemuda dan pemudi.
+        Dalam tarian ini, para penari akan menari dan menyanyi dalam bentuk pantun dan pantun tersebut saling berbalas. Selain sebagai hiburan, ternyata Tari Tandak dapat sekaligus mencari jodoh dikarenakan para penari
+        berasal dari kampung lain. Terdapat gerakan bela diri dalam tarian ini dan tarian ini sering dipentaskan pada malam hari. </string>
+    <string name="inai2">Tari Inai adalah tarian yang berasal dari Jambi. Tari Inai adalah tarian yang digunakan untuk upacara pengantin dari masyarakat Melayu dan menjadi bagian penting dalam acara memberi tanda kepada
+        pengantin. Gerakan tari ini bersumber dari gerakan silat. Di Jambi, Tari inai dibawakan berpasang-pasangan. Namun ada pula yang dibawakan secara tunggal. Tarian ini ditampilkan oleh penari laki-laki dengan jumlah
+        penari maksimal 3 orang. Tarian ini ditampilkan pada malam hari oleh penari menggunakan perlengkapan berupa lilin. </string>
+    <string name="gandai2">Tari Gandai adalah tarian yang berasal dari Bengkulu. Tari Gandai adalah tari yang gerakannya berayun-ayun sambil mengembangkan dua tangan, seperti burung yang terbang di angkasa. Tarian ini
+        diiringi oleh sebuah alat musik bambu tua yang diukir sehingga dapat memberikan suara yang indah. Alat musik itu bernama Serunai. Tari gandai berasal dari kata gando yang berarti ganda atau berpasangan. Tari gandai
+        adalah sebuah tari tradisi suku pekal yang zaman dahulu saat berkumpul, bersukacita, menari dengan alunan serunai, dan berbalas pantun.</string>
+    <string name="campak2">Tari Campak adalah tarian yang berasal dari Bangka Belitung. Tari Campak adalah tarian yang menggambarkan keceriaan bujang dan dayang di Bangka Belitung dengan berbalas pantun. Tarian ini biasanya
+        dibawakan setelah panen padi atau sepulang dari ume (kebun). Tarian ini berkembang pada masa pendudukan bangsa Portugis di Bangka Belitung. Dulu, tari ini hanya ditampilkan di acara tertentu. Namun, karena perkembangan,
+        tari ini dapat digunakan sebagai hiburan dalam berbagai kegiatan seperti penyambutan tamu atau pada pesta pernikahan. </string>
+    <string name="gending2">Tari Gending Sriwijaya adalah tarian yang berasal dari Sumatera Selatan. Tarian ini tarian kolosal peninggalan kerajaan Sriwijaya dan hanya dipentaskan oleh orang yang ada di dalam kerajaan sebagai
+        tari penyambutan bagi tamu kerajaan. Saat ini, tarian ini dipentaskan oleh masyarakat Palembang dalam berbagai acara, seperti pernikahan, pertemuan-pertemuan pemerintahan, dan pertunjukkan untuk pengenalan budaya.
+        Tarian ini ditarikan oleh 9 orang penari perempuan. Sembilan penari tersebut merupakan gambaran dari sembilan sungai yang ada di Sumatera Selatan. </string>
+    <string name="sigeh2">Tari Sigeh Pengunten adalah tarian yang berasal dari Lampung. Tarian ini adalah salah satu tari kreasi baru hasil pengembangan dari Tari Sembah. Walaupun tarian ini tari ini adaptasi antara klasik dan
+        modern, namun busana atau kostum dan segala aksesoris serta musik pengiring dalam tarian ini tidak ada perubahan. Tari Sigeh Pengunten digunakan untuk menunjukkan keramahtamahan tuan rumah kepada para tamu dan seluruh
+        undangan yang menghadiri sebuah acara di Lampung. Selain itu, tarian ini juga sering digunakan dalam acara-acara adat dan acara pernikahan. </string>
+    <string name="ngabalukbuk2">Tari Ngabalukbuk adalah tarian yang berasal dari Banten. Tarian ini menceritakan konflik dalam kehidupan manusia, karena keserakahan dan ketidakadilan. Konflik ini timbul karena sebuah hal yaitu
+        air. Tarian ini menceritakan hiruk pikuk kehidupan masyarakat dalam tradisi mengalirkan air dari sumber mata air yang berada di gunung sampai ke kampung atau persawahan dengan mengunakan ruas bambu yang disambung memanjang.
+        Selain konflik, dalam tari ini terdapat kebersamaan, gotong royong dan kepedulian terhadap lingkungan dan alam yang senantiasa patut dilestarikan agar tetap terjaga. </string>
+    <string name="gambyong2">Tari Gambyong adalah tarian yang berasal dari Jawa Tengah. Tari Gambyong merupakan salah satu bentuk tarian Jawa klasik yang berasal-mula dari wilayah Surakarta dan biasanya dibawakan untuk pertunjukan
+        atau menyambut tamu. Namun, awalnya tari gambyong digunakan pada upacara ritual pertanian yang bertujuan untuk kesuburan padi dan perolehan panen yang melimpah. Tari ini tidak hanya terdiri dari satu tarian saja melainkan
+        terdiri dari bermacam-macam koreografi. Tarian yang paling dikenal adalah Tari Gambyong Pareanom (dengan beberapa variasi) dan Tari Gambyong Pangkur. </string>
+    <string name="bedhaya2">Tari Bedhaya Ketawang adalah tarian yang berasal dari Yogyakarta. Tarian ini adalah tarian yang sakral di Yogyakarta. Nama Tari Bedhaya Ketawang diambil dari kata bedhaya yang berarti penari wanita
+        di istana, dan ketawang yang berarti langit, Tarian ini adalah tari kebesaran yang hanya di pertunjukan ketika penobatan serta peringatan kenaikan tahta raja di Kasunanan Surakarta. Tarian ini dibawakan penari perempuan
+        yang berkelompok. Tari Bedhaya Ketawang di iringi oleh iringan musik gending ketawang gedhe dengan nada pelog. </string>
+    <string name="soya2">Tari Soya-Soya adalah tarian yang berasal dari Maluku Utara. Tarian ini adalah Tarian ini diciptakan oleh seniman Kesultanan Ternate untuk mengabadikan peristiwa sejarah yang pernah terjadi di masa lalu.
+        Tarian ini mengandung makna ungkapan kebanggaan rakyat Ternate, karena keberhasilan para pejuang dalam mengusir penjajah dari tanah mereka di masa lalu. Soya-Soya sendiri berarti pantang menyerah atau penjemputan. Tari
+        tradisional ini memiliki nilai kepahlawanan yang menjadi identitas penduduk Ternate yang pantang menyerah. </string>
+    <string name="lalatip2">Tari Lalatip atau biasa disebut Tari Magunatio adalah tarian tradisional yang berasal Suku Dayak Tahol Provinsi Kalimantan Utara. Lalatip memiliki arti menjepit. Tarian ini digunakan sebagai latihan
+        ketangkasan kaki dalam melompat dan menghindari rintangan karena adanya perang antar suku yang terjadi. Sehingga, keterampilam berperang wajib dimiliki oleh pemuda dan pemudi Suku Dayak Tahol. Tari ini dibagi menjadi tiga
+        kelompok pemain yaitu kelompok yang memainkan batang kayu, kelompok penari, dan kelompok pemain musik. </string>
+    <string name="baksa2">Tari Baksa Kembang adalah tari klasik dari Keraton Banjar dari Kalimantan Selatan. Tarian ini dulunya dijadikan sebagai kegiatan penyambutan tamu yang dilakukan oleh putri-putri keraton Banjar. Saat ini,
+        tarian Baksa Kembang ditampilkan dalam kegiatan uparara pernikahan. Nilai dari tarian ini adalah menghormati dan menghargai tamu merupakan kegiatan yang mulia. Hal ini merupakan budaya bangsa yang harus kita junjung tinggi.
+        Tari ini menceritakan tentang putri remaja yang cantik jelita sedang bermain-main riang gembira di taman bunga. Tarian ini dilakukan oleh wanita berjumlah ganjil, baik tunggal maupun jamak asal berjumlah ganjil. </string>
+    <string name="saronde2">Tari Saronde adalah tari yang berasal dari Gorontalo. Tarian ini merupakan sebuah tarian yang diambil dari tradisi pada saat malam pertunangan serta rangkaian upacara perkawinan adat masyarakat Gorontalo.
+        Umumnya tarian ini dilakukan oleh para penari perempuan dan penari laki-laki. Dulu, Saronde difungsikan sebagai sarana dalam Molihe Huali, yaitu tradisi yang dilakukan calon mempelai pria untuk mengintip atau menengok calon
+        mempelai perempuan. Untuk saat ini, Tari Saronde menjadi rangkaian adat pernikahan suku Gorontalo karena merupakan bagian dari adat dan tradisi yang tidak bisa ditinggalkan.</string>
+    <string name="potangnga2">Tari Potangnga adalah tarian yang berasal dari Sulawesi Barat. Potangnga adalah sebutan bagi para nelayan pencari telur ikan terbang, atau biasa disebut ikan tiung-tiung. Para nelayan di sana tidak hanya
+        berburu ikan terbang, tapi juga mengolah telur ikan terbang, khususnya di pesisir pantai desa. Mencari ikan terbang dan mengolah telurnya sudah menjadi rutinitas para nelayan di mandar sejak dahulu kala. Sebelum para nelayan
+        berangkat, terdapat prosesi pemberkatan atas keselamatan dan melimpahnya telur ikan. Hal ini tidak terlepas dari kegiatan adat tradisi setempat. </string>
+    <string name="lariangi2">Tari Lariangi adalah tarian yang berasal dari Sulawesi Tenggara. Lariangi terdiri dari dua suku kata, yaitu lari dan angi. Lari berarti menghias atau mengukir, sedangkan angi berarti orang-orang yang berhias.
+        Kata Lari diwujudkan dengan aksesoris dan pakaian yang dipakai oleh para penari. Masing-masing perwujudan lari memiliki simbol-simbol. Contohnya, untuk pada bagian kepala disebut panto dan pintoru melambangkan derajat bangsawan.
+        Selain menari, mereka melantunkan syair-syair. Isinya mengisahkan kapal-kapal yang masuk ke wilayah Sulawesi Tenggara. Tari Lariangi ditetapkan menjadi Warisan Budaya Nasional UNESCO pada 2013 </string>
+</resources>

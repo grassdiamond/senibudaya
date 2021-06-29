@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_hlm"
+    tools:context=".ntbali">
+
+    <ImageButton
+        android:id="@+id/imgbtn_bali"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/logo_bali"
+        android:contentDescription="@string/bali"
+        android:onClick="bali"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.176"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.291"
+        tools:ignore="UsingOnClickInXml" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_ntb"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/logo_ntb"
+        android:contentDescription="@string/ntb"
+        android:onClick="ntb"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.778"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.291"
+        tools:ignore="UsingOnClickInXml" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_ntt"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:background="@drawable/logo_ntt"
+        android:contentDescription="@string/ntt"
+        android:onClick="ntt"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.669"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/txt_bali1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="267dp"
+        android:layout_marginBottom="408dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/bali"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.344"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_bali"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/txt_ntb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="91dp"
+        android:layout_marginBottom="78dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/ntb"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imgbtn_ntt"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.443"
+        app:layout_constraintStart_toEndOf="@+id/txt_bali1"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_ntb"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/txt_ntt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="178dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="175dp"
+        android:layout_marginBottom="173dp"
+        android:background="#2196F3"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/ntt"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_ntt" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

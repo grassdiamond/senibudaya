@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_hlm"
+    tools:context=".lagu_sulteng">
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="400dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="casual"
+        android:gravity="center_horizontal"
+        android:text="@string/palu"
+        android:textColor="#000000"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/gambarsulteng"
+        android:layout_width="320dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center_horizontal"
+        android:contentDescription="@string/pakarena"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView37"
+        app:srcCompat="@drawable/sulteng" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_infolagu15"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="245dp"
+        android:layout_marginBottom="222dp"
+        android:contentDescription="@string/infolagu"
+        android:onClick="info_lagu_sulteng"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gambarsulteng"
+        app:srcCompat="@drawable/icon_info"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/txt_infolagu15"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginEnd="245dp"
+        android:layout_marginBottom="102dp"
+        android:background="#3A8EAB"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/infolagu"
+        android:textColor="#FFFFFF"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_infolagu15" />
+
+    <ImageButton
+        android:id="@+id/imgbtn_videolagu15"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="222dp"
+        android:contentDescription="@string/btnlagu"
+        android:onClick="lirik_sulteng"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imgbtn_infolagu15"
+        app:layout_constraintTop_toBottomOf="@+id/gambarsulteng"
+        app:srcCompat="@drawable/icon_video"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/txt_videolagu15"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="102dp"
+        android:background="#3A8EAB"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="@string/btnlagu"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/txt_infolagu15"
+        app:layout_constraintTop_toBottomOf="@+id/imgbtn_videolagu15" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
